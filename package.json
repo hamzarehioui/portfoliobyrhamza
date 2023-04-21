@@ -2,7 +2,7 @@
   "name": "hamzarehiouiportfolio",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://portfoliobyrhamza.github.io",
+  "homepage": "https://therhamza.github.io/portfoliobyrhamza",
   "dependencies": {
     "@coreui/coreui": "^4.2.6",
     "@material-ui/core": "^4.12.3",
@@ -12,7 +12,7 @@
     "@testing-library/user-event": "^13.2.1",
     "@trendyol-js/react-carousel": "^3.0.2",
     "bootstrap": "^5.2.3",
-    "gh-pages": "^3.2.3",
+    "gh-pages": "^5.0.0",
     "prop-types": "^15.7.2",
     "pure-react-carousel": "^1.30.1",
     "react": "^17.0.2",
@@ -30,6 +30,7 @@
     "eject": "react-scripts eject --openssl-legacy-provider",
     "lint": "eslint .",
     "format": "prettier --write \"**/*.+(js|jsx|json|css|md)\"",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "browserslist": {
