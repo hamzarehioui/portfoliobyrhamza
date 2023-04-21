@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/portfoliobyrhamza/static/css/main.b5583ee6.chunk.css",
+    "main.js": "/portfoliobyrhamza/static/js/main.b5be847a.chunk.js",
+    "main.js.map": "/portfoliobyrhamza/static/js/main.b5be847a.chunk.js.map",
+    "runtime-main.js": "/portfoliobyrhamza/static/js/runtime-main.cfe00ca5.js",
+    "runtime-main.js.map": "/portfoliobyrhamza/static/js/runtime-main.cfe00ca5.js.map",
+    "static/css/2.95ca3b90.chunk.css": "/portfoliobyrhamza/static/css/2.95ca3b90.chunk.css",
+    "static/js/2.f5078ff8.chunk.js": "/portfoliobyrhamza/static/js/2.f5078ff8.chunk.js",
+    "static/js/2.f5078ff8.chunk.js.map": "/portfoliobyrhamza/static/js/2.f5078ff8.chunk.js.map",
+    "index.html": "/portfoliobyrhamza/index.html",
+    "static/css/2.95ca3b90.chunk.css.map": "/portfoliobyrhamza/static/css/2.95ca3b90.chunk.css.map",
+    "static/css/main.b5583ee6.chunk.css.map": "/portfoliobyrhamza/static/css/main.b5583ee6.chunk.css.map",
+    "static/js/2.f5078ff8.chunk.js.LICENSE.txt": "/portfoliobyrhamza/static/js/2.f5078ff8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfe00ca5.js",
+    "static/css/2.95ca3b90.chunk.css",
+    "static/js/2.f5078ff8.chunk.js",
+    "static/css/main.b5583ee6.chunk.css",
+    "static/js/main.b5be847a.chunk.js"
+  ]
+}
