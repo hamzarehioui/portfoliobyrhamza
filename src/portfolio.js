@@ -88,7 +88,7 @@ const projects = [
     stack: ['C#', 'WinForms', '.NET Framework', 'MySQL'],
     sourceCode: 'https://github.com/yanta/note-taking-app',
     livePreview: 'https://yantanotes.com',
-    images: ['/assets/GUI1-2.png', '/assets/GUI2-2.png', '/assets/GUI3-2.png'],
+    images: ['/assets/GUI1-2.PNG', '/assets/GUI2-2.PNG', '/assets/GUI3-2.PNG'],
   },
   {
     name: 'Contact Manager',
