@@ -7,7 +7,7 @@ const header = {
 const about = {
   name: 'Hamza Rehioui',
   role: 'Problem Solver',
-  description: `I am a software developer with a Bachelor's degree in Computer Science and Business Administration. My technical skill set includes experience in TypeScript, React Native, NodeJS, MongoDB, and more. I have developed mobile apps and worked on projects to streamline business operations. Throughout my career, I have worked as a software engineer intern, peer tutor, and stage manager, which has demonstrated my adaptability and effective communication skills.`,
+  description: `I am a software developer with a Bachelor's degree in Computer Science and Business Administration. My technical skill set includes experience in TypeScript, React Native, NodeJS, Prisma, and more. I have developed mobile apps and worked on projects to streamline business operations. Throughout my career, I have worked as a software engineer intern, peer tutor, and stage manager, which has demonstrated my adaptability and effective communication skills.`,
   resume: `${process.env.PUBLIC_URL}${'/Resume.pdf'}`,
   social: {
     linkedin: 'https://linkedin.com/in/hamza-rehioui/',
@@ -33,7 +33,7 @@ const projects = [
   {
     name: 'Playdates',
     description: 'Mobile app that facilitates playdate planning for parents',
-    stack: ['React Native', 'NodeJS', 'MongoDB'],
+    stack: ['React Native', 'NodeJS', 'Prisma'],
     sourceCode: 'https://github.com/playdates-app/playdates',
     livePreview: 'https://playdates.app',
     images: [
