@@ -2,7 +2,7 @@
   "name": "hamzarehiouiportfolio",
   "version": "0.0.1",
   "private": true,
-  "homepage": "https://therhamza.github.io/portfoliobyrhamza",
+  "homepage": "https://hamzarehioui.github.io/portfoliobyrhamza",
   "dependencies": {
     "@coreui/coreui": "^4.2.6",
     "@material-ui/core": "^4.12.3",
